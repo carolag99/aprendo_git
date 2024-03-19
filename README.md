@@ -1,2 +1,4 @@
 # aprendo_git
-miprimerrepo
+Voy a utilizar este repo como el primero en el aprendizaje de Git
+
+agregado 
